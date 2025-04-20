@@ -1,7 +1,6 @@
 <?php
 namespace App\Helper;
 use Exception;
-
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 class JWTToken{
